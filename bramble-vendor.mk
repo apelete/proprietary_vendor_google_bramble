@@ -1220,8 +1220,6 @@ PRODUCT_PACKAGES += \
     libperipheral_client \
     libpowercallback \
     libpowercore \
-    libprotobuf-cpp-full-21.7 \
-    libprotobuf-cpp-lite-21.7 \
     libpvr \
     libqcbor \
     libqcc_file_agent \
